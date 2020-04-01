@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/georgebuild_react/precache-manifest.dbcc3545b0370cabf321423ba85d043a.js"
+  "/georgebuild_react/precache-manifest.08a86743daa92dbf5faf1ccff78176fa.js"
 );
 
 self.addEventListener('message', (event) => {
